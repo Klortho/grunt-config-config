@@ -1,0 +1,29 @@
+{
+  "name": "grunt-config-config",
+  "version": "0.0.1",
+  "description": "Simple, non-opinionated, lightweight tool for adding profiles and user overrides to Gruntfiles",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klortho/grunt-config-config.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "NCBI",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/klortho/grunt-config-config/issues"
+  },
+  "homepage": "https://github.com/klortho/grunt-config-config#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "lodash": "^4.9.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
